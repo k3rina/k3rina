@@ -45,7 +45,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-
+![gitartwork](gitartwork.svg)
 
 <!---
 k3rina/k3rina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
