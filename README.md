@@ -1,6 +1,6 @@
-## Hello, world! 👋
+## 👋 Hello, world! 
 ### I’m Ekaterina, Full-Stack developer with expertise in JavaScript, TypeScript, and the PERN stack (PostgreSQL, Express.js, ReactJS, Node.js).
-##  About Me 🚀
+##  🚀 About Me 
 
 - 👀 I’m interested in on on all topics related to Web Development
 - 💞️ I’m looking to collaborate on web desktop applications.
