@@ -4,6 +4,7 @@
 
 - 👀 I’m interested in on on all topics related to Web Development
 - 💞️ I’m looking to collaborate on web desktop applications.
+- 💼 Open To Job Opportunities
 - 🌱 I enjoy spending my free time exploring new destinations🌎, engaging in outdoor activities🤸🏻‍♀️, and learning new tech stacks👩🏻‍💻.
 - 📫 How to reach me: gurianova.katrin@gmail.com
 
@@ -43,6 +44,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 
 
 <!---
