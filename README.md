@@ -5,7 +5,7 @@
 - 👀 I’m interested in on on all topics related to Web Development
 - 💞️ I’m looking to collaborate on web desktop applications.
 - 💼 Open To Job Opportunities
-- 🌱 I enjoy spending my free time exploring new destinations🌎, engaging in outdoor activities🤸🏻‍♀️, and learning new tech stacks👩🏻‍💻.
+- 🌱 I enjoy spending my free time exploring new destinations🌎, engaging in outdoor activities🤸🏻‍♀️, and learning new tech stacks💻.
 - 📫 How to reach me: gurianova.katrin@gmail.com
 
 ## 🛠  Technologies and Tools I work with
@@ -28,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/Github_Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Tech Stack
+## 👩🏻‍💻Tech Stack
 
 **Client:** TypeScript, JS, React, Hooks API, Redux (Thunk, Toolkit), HTML5, CSS3, Sass
 
