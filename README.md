@@ -3,9 +3,9 @@
 ##  🚀 About Me 
 
 - 👀 I’m interested in all topics related to Web Development
-- 💞️ I’m looking to collaborate on web desktop applications.
+- 💞️ I’m looking to collaborate on web desktop applications
 - 💼 Open To Job Opportunities
-- 🌱 I enjoy spending my free time exploring new destinations🌎, engaging in outdoor activities🤸🏻‍♀️, and learning new tech stacks💻.
+- 🌱 I enjoy spending my free time exploring new destinations🌎, engaging in outdoor activities🤸🏻‍♀️, and learning new tech stacks💻
 - 📫 How to reach me: gurianova.katrin@gmail.com
 
 ## 🛠  Technologies and Tools I work with
