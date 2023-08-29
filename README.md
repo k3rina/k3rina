@@ -8,7 +8,7 @@
 - 🌱 I enjoy spending my free time exploring new destinations🌎, engaging in outdoor activities🤸🏻‍♀️, and learning new tech stacks💻
 - 📫 How to reach me: gurianova.katrin@gmail.com
 
-## 🛠  Technologies and Tools I work with
+## 🛠 Technologies and Tools I work with
 
 ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/Github_Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 👩🏻‍💻Tech Stack
+## 👩🏻‍💻 Tech Stack
 
 **Client:** TypeScript, JS, React, Hooks API, Redux (Thunk, Toolkit), HTML5, CSS3, Sass
 
@@ -40,12 +40,20 @@
 
 
 
-## 👾  What I am interested in learning soon
+## 👾 What I am interested in learning soon
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+### Connect with me:
+<p>
+<a href="https://www.linkedin.com/in/ekaterina-gurianova/" target="blank"><img align="center" src="https://www.svgrepo.com/show/35519/linkedin-logo.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="gurianova.katrin@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/444193/brand-google-gmail.svg" alt="gmail" height="40" width="40" /></a>
+  <a href="https://t.me/k3ttrin" target="blank"><img align="center" src="https://www.svgrepo.com/show/204357/telegram.svg" alt="tg" height="35" width="40" /></a>
+</p>
+
 ![gitartwork](gitartwork.svg)
+
 
 <!---
 k3rina/k3rina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
