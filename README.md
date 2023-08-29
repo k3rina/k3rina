@@ -45,9 +45,9 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Connect with me:
+## <img align="center" src="https://www.svgrepo.com/show/440486/earth.svg" alt="linkedin" height="35" width="35" /> Connect with me:
 <p>
-<a href="https://www.linkedin.com/in/ekaterina-gurianova/" target="blank"><img align="center" src="https://www.svgrepo.com/show/35519/linkedin-logo.svg" alt="linkedin" height="30" width="40" /></a>
+&nbsp &nbsp &nbsp &nbsp &nbsp<a href="https://www.linkedin.com/in/ekaterina-gurianova/" target="blank" margin-rightt="20"><img align="center" src="https://www.svgrepo.com/show/35519/linkedin-logo.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="gurianova.katrin@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/444193/brand-google-gmail.svg" alt="gmail" height="40" width="40" /></a>
   <a href="https://t.me/k3ttrin" target="blank"><img align="center" src="https://www.svgrepo.com/show/204357/telegram.svg" alt="tg" height="35" width="40" /></a>
 </p>
