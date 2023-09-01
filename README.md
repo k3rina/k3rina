@@ -48,7 +48,7 @@
 ## <img align="center" src="https://www.svgrepo.com/show/440486/earth.svg" alt="linkedin" height="35" width="35" /> Connect with me:
 <p>
 &nbsp &nbsp &nbsp &nbsp &nbsp<a href="https://www.linkedin.com/in/ekaterina-gurianova/" target="blank" margin-rightt="20"><img align="center" src="https://www.svgrepo.com/show/35519/linkedin-logo.svg" alt="linkedin" height="30" width="40" /></a>
-    <a href="gurianova.katrin@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/444193/brand-google-gmail.svg" alt="gmail" height="40" width="40" /></a>
+    <a href="mailto:gurianova.katrin@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/444193/brand-google-gmail.svg" alt="gmail" height="40" width="40" /></a>
   <a href="https://t.me/k3ttrin" target="blank"><img align="center" src="https://www.svgrepo.com/show/204357/telegram.svg" alt="tg" height="35" width="40" /></a>
 </p>
 
